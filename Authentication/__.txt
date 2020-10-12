@@ -1,0 +1,9 @@
+npm init
+npm i express
+npm --save-dev nodemon		//constant updates
+npm install mongoose		//db
+npm install dotenv			//environment variables
+npm install @hapi/joi			//validations
+npm install bcryptjs			//password hashing
+npm install jsonwebtoken		//jwt token, (token that remembers if we're logged in)
+
