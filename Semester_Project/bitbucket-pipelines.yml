@@ -1,0 +1,87 @@
+pipelines:
+  default:
+      - parallel:
+        - step:
+            image: node:10.15.3
+            name: Test MDR
+            script:
+              - cd mdr
+              - npm install
+              - npm test
+        - step:
+            image: node:10.15.3
+            name: Test SPA
+            script:
+              - cd spa
+              - npm install
+              - npm test
+        - step:
+            image: mcr.microsoft.com/dotnet/sdk:5.0
+            name: Test MDV
+            caches:
+              - dotnetcore
+            script:
+              - cd mdv
+              - dotnet restore
+              - dotnet test
+      - parallel:
+        - step:
+            name: Deploy MDR
+            condition:
+              changesets:
+                includePaths:
+                  - "mdr/**"
+            deployment: production backend
+            caches:
+              - node
+            script:
+              - cd mdr
+              - npm pack
+              - pipe: atlassian/heroku-deploy:1.2.1
+                variables:
+                  HEROKU_API_KEY: $HEROKU_API_KEY
+                  HEROKU_APP_NAME: $HEROKU_APP_NAME
+                  ZIP_FILE: "it1-arqsi-1.0.0.tgz"
+                  WAIT: "true"
+        - step:
+            name: Deploy SPA
+            condition:
+              changesets:
+                includePaths:
+                  - "spa/**"
+            deployment: production spa
+            script:
+              - cd spa
+              - npm pack
+              - pipe: atlassian/heroku-deploy:1.2.1
+                variables:
+                  HEROKU_API_KEY: $HEROKU_API_KEY
+                  HEROKU_APP_NAME: $HEROKU_APP_NAME
+                  ZIP_FILE: "spa-0.1.0.tgz"
+                  WAIT: "true"
+        - step:
+            name: Deploy MDV
+            condition:
+              changesets:
+                includePaths:
+                  - "mdv/**"
+            deployment: production mdv
+            script:
+              - pipe: atlassian/ssh-run:0.2.2
+                variables:
+                  SSH_USER: $SSH_USER
+                  SERVER: $SSH_HOST
+                  COMMAND: "./cd.sh"
+        - step:
+            name: Deploy Planning
+            condition:
+              changesets:
+                includePaths:
+                  - "planning/*"
+            deployment: production prolog
+            script:
+              - pipe: atlassian/ssh-run:0.2.2
+                variables:
+                  SSH_USER: $SSH_USER
+                  SERVER: $SSH_HOST
+                  COMMAND: "./cd_prolog.sh"
