@@ -238,3 +238,16 @@ Outras abordagens/estilos/padrões, como por exemplo a interligação entre apli
 
 ### **Analysis Results**
 Não existem por agora resultados de análise ou avaliação. Estudos qualitativos acerca dos estilos/padrões adotados (nomeadamente Onion em MDR e MDV, mas também Dependency Injection na UI), permitem empiricamente advogar que a manutenibilidade, evolutabilidade e testabilidade do software são elevadas, ao mesmo tempo que permitem atingir as funcionalidades desejadas.
+
+----------------
+
+# Glossary and Acronyms
+
+* **DDD** - Domain Driver Design
+* **DTO** - Data Transfer Object
+* **MDR** - Master Data Rede
+* **MDV** - Master Data Viagem
+* **API** - Application Programming Interface
+* **Ad Hoc** - When necessary or needed
+
+-------------
