@@ -1,6 +1,6 @@
 # ISEP-ARQSI-2020/2021
 
-Repositório para os projetos de ARQSI.
+Repositório para o projeto de ARQSI (4 Sprints).
 
 # Projeto Integrador
 ------------------------------------------------
@@ -36,51 +36,51 @@ Repositório para os projetos de ARQSI.
 		- [Vista Física](./Semester_Project/Wiki/diagramas/Design/Level_1/VF_1.md)
         - [Vista de Implementação](./Semester_Project/Wiki/diagramas/Design/Level_1/VI.md)
 		- **Vista de Processos**
-			- [SSD UC1](./Semester_Project/Wiki/diagramas/Design/Level_1/UC1.md)
-			- [SSD UC2](./Semester_Project/Wiki/diagramas/Design/Level_1/UC2.md)
-			- [SSD UC3](./Semester_Project/Wiki/diagramas/Design/Level_1/UC3.md)
-			- [SSD UC4](./Semester_Project/Wiki/diagramas/Design/Level_1/UC4.md)
-			- [SSD UC5](./Semester_Project/Wiki/diagramas/Design/Level_1/UC5.md)
-			- [SSD UC6](./Semester_Project/Wiki/diagramas/Design/Level_1/UC6.md)
-			- [SSD UC7](./Semester_Project/Wiki/diagramas/Design/Level_1/UC7.md)
-			- [SSD UC8](./Semester_Project/Wiki/diagramas/Design/Level_1/UC8.md)
-			- [SSD UC9](./Semester_Project/Wiki/diagramas/Design/Level_1/UC9.md)
-			- [SSD UC10](./Semester_Project/Wiki/diagramas/Design/Level_1/UC10.md)
-			- [SSD UC11](./Semester_Project/Wiki/diagramas/Design/Level_1/UC11.md)
-			- [SSD UC12](./Semester_Project/Wiki/diagramas/Design/Level_1/UC12.md)
-			- [SSD UC13](./Semester_Project/Wiki/diagramas/Design/Level_1/UC13.md)
-			- [SSD UC14](./Semester_Project/Wiki/diagramas/Design/Level_1/UC14.md)
-			- [SSD UC15](./Semester_Project/Wiki/diagramas/Design/Level_1/UC15.md)
-			- [SSD UC16](./Semester_Project/Wiki/diagramas/Design/Level_1/UC16.md)
-			- [SSD UC17](./Semester_Project/Wiki/diagramas/Design/Level_1/UC17.md)
-			- [SSD UC18](./Semester_Project/Wiki/diagramas/Design/Level_1/UC18.md)
-			- [SSD UC19](./Semester_Project/Wiki/diagramas/Design/Level_1/UC19.md)
-			- [SSD UC20](./Semester_Project/Wiki/diagramas/Design/Level_1/UC20.md)
+			- [UC1](./Semester_Project/Wiki/diagramas/Design/Level_1/UC1.md)
+			- [UC2](./Semester_Project/Wiki/diagramas/Design/Level_1/UC2.md)
+			- [UC3](./Semester_Project/Wiki/diagramas/Design/Level_1/UC3.md)
+			- [UC4](./Semester_Project/Wiki/diagramas/Design/Level_1/UC4.md)
+			- [UC5](./Semester_Project/Wiki/diagramas/Design/Level_1/UC5.md)
+			- [UC6](./Semester_Project/Wiki/diagramas/Design/Level_1/UC6.md)
+			- [UC7](./Semester_Project/Wiki/diagramas/Design/Level_1/UC7.md)
+			- [UC8](./Semester_Project/Wiki/diagramas/Design/Level_1/UC8.md)
+			- [UC9](./Semester_Project/Wiki/diagramas/Design/Level_1/UC9.md)
+			- [UC10](./Semester_Project/Wiki/diagramas/Design/Level_1/UC10.md)
+			- [UC11](./Semester_Project/Wiki/diagramas/Design/Level_1/UC11.md)
+			- [UC12](./Semester_Project/Wiki/diagramas/Design/Level_1/UC12.md)
+			- [UC13](./Semester_Project/Wiki/diagramas/Design/Level_1/UC13.md)
+			- [UC14](./Semester_Project/Wiki/diagramas/Design/Level_1/UC14.md)
+			- [UC15](./Semester_Project/Wiki/diagramas/Design/Level_1/UC15.md)
+			- [UC16](./Semester_Project/Wiki/diagramas/Design/Level_1/UC16.md)
+			- [UC17](./Semester_Project/Wiki/diagramas/Design/Level_1/UC17.md)
+			- [UC18](./Semester_Project/Wiki/diagramas/Design/Level_1/UC18.md)
+			- [UC19](./Semester_Project/Wiki/diagramas/Design/Level_1/UC19.md)
+			- [UC20](./Semester_Project/Wiki/diagramas/Design/Level_1/UC20.md)
 	- **Nível 2**
 		- [Vista Lógica](./Semester_Project/Wiki/diagramas/Design/Level_2/VL.md)
         - [Vista de Implementação](./Semester_Project/Wiki/diagramas/Design/Level_2/VI.md)
 		- [Vista Física](./Semester_Project/Wiki/diagramas/Design/Level_2/VF.md)
 		- **Vista de Processos**
-			- [SSD UC1](./Semester_Project/Wiki/diagramas/Design/Level_2/UC1.md)
-			- [SSD UC2](./Semester_Project/Wiki/diagramas/Design/Level_2/UC2.md)
-			- [SSD UC3](./Semester_Project/Wiki/diagramas/Design/Level_2/UC3.md)
-			- [SSD UC4](./Semester_Project/Wiki/diagramas/Design/Level_2/UC4.md)
-			- [SSD UC5](./Semester_Project/Wiki/diagramas/Design/Level_2/UC5.md)
-			- [SSD UC6](./Semester_Project/Wiki/diagramas/Design/Level_2/UC6.md)
-			- [SSD UC7](./Semester_Project/Wiki/diagramas/Design/Level_2/UC7.md)
-			- [SSD UC8](./Semester_Project/Wiki/diagramas/Design/Level_2/UC8.md)
-			- [SSD UC9](./Semester_Project/Wiki/diagramas/Design/Level_2/UC9.md)
-			- [SSD UC10](./Semester_Project/Wiki/diagramas/Design/Level_2/UC10.md)
-			- [SSD UC11](./Semester_Project/Wiki/diagramas/Design/Level_2/UC11.md)
-			- [SSD UC12](./Semester_Project/Wiki/diagramas/Design/Level_2/UC12.md)
-			- [SSD UC13](./Semester_Project/Wiki/diagramas/Design/Level_2/UC13.md)
-			- [SSD UC14](./Semester_Project/Wiki/diagramas/Design/Level_2/UC14.md)
-			- [SSD UC15](./Semester_Project/Wiki/diagramas/Design/Level_2/UC15.md)
-			- [SSD UC16](./Semester_Project/Wiki/diagramas/Design/Level_2/UC16.md)
-			- [SSD UC17](./Semester_Project/Wiki/diagramas/Design/Level_2/UC17.md)
-			- [SSD UC18](./Semester_Project/Wiki/diagramas/Design/Level_2/UC18.md)
-			- [SSD UC19](./Semester_Project/Wiki/diagramas/Design/Level_2/UC19.md)
-			- [SSD UC20](./Semester_Project/Wiki/diagramas/Design/Level_2/UC20.md)
+			- [UC1](./Semester_Project/Wiki/diagramas/Design/Level_2/UC1.md)
+			- [UC2](./Semester_Project/Wiki/diagramas/Design/Level_2/UC2.md)
+			- [UC3](./Semester_Project/Wiki/diagramas/Design/Level_2/UC3.md)
+			- [UC4](./Semester_Project/Wiki/diagramas/Design/Level_2/UC4.md)
+			- [UC5](./Semester_Project/Wiki/diagramas/Design/Level_2/UC5.md)
+			- [UC6](./Semester_Project/Wiki/diagramas/Design/Level_2/UC6.md)
+			- [UC7](./Semester_Project/Wiki/diagramas/Design/Level_2/UC7.md)
+			- [UC8](./Semester_Project/Wiki/diagramas/Design/Level_2/UC8.md)
+			- [UC9](./Semester_Project/Wiki/diagramas/Design/Level_2/UC9.md)
+			- [UC10](./Semester_Project/Wiki/diagramas/Design/Level_2/UC10.md)
+			- [UC11](./Semester_Project/Wiki/diagramas/Design/Level_2/UC11.md)
+			- [UC12](./Semester_Project/Wiki/diagramas/Design/Level_2/UC12.md)
+			- [UC13](./Semester_Project/Wiki/diagramas/Design/Level_2/UC13.md)
+			- [UC14](./Semester_Project/Wiki/diagramas/Design/Level_2/UC14.md)
+			- [UC15](./Semester_Project/Wiki/diagramas/Design/Level_2/UC15.md)
+			- [UC16](./Semester_Project/Wiki/diagramas/Design/Level_2/UC16.md)
+			- [UC17](./Semester_Project/Wiki/diagramas/Design/Level_2/UC17.md)
+			- [UC18](./Semester_Project/Wiki/diagramas/Design/Level_2/UC18.md)
+			- [UC19](./Semester_Project/Wiki/diagramas/Design/Level_2/UC19.md)
+			- [UC20](./Semester_Project/Wiki/diagramas/Design/Level_2/UC20.md)
 		- [Mapeamento Vista Física-Implementação](./Semester_Project/Wiki/diagramas/Design/Level_2/VI_F.md)
 		- [Mapeamento Vista Lógica-Implementação](./Semester_Project/Wiki/diagramas/Design/Level_2/VL_I.md)
 	- **Nível 3**
@@ -88,26 +88,26 @@ Repositório para os projetos de ARQSI.
 		- [Vista de Implementação](./Semester_Project/Wiki/diagramas/Design/Level_3/VI.md)
 		- [Vista Física](./Semester_Project/Wiki/diagramas/Design/Level_3/VF.md)
 		- **Vista de Processos**
-			- [SSD UC1](./Semester_Project/Wiki/diagramas/Design/Level_3/UC1.md)
-			- [SSD UC2](./Semester_Project/Wiki/diagramas/Design/Level_3/UC2.md)
-			- [SSD UC3](./Semester_Project/Wiki/diagramas/Design/Level_3/UC3.md)
-			- [SSD UC4](./Semester_Project/Wiki/diagramas/Design/Level_3/UC4.md)
-			- [SSD UC5](./Semester_Project/Wiki/diagramas/Design/Level_3/UC5.md)
-			- [SSD UC6](./Semester_Project/Wiki/diagramas/Design/Level_3/UC6.md)
-			- [SSD UC7](./Semester_Project/Wiki/diagramas/Design/Level_3/UC7.md)
-			- [SSD UC8](./Semester_Project/Wiki/diagramas/Design/Level_3/UC8.md)
-			- [SSD UC9](./Semester_Project/Wiki/diagramas/Design/Level_3/UC9.md)
-			- [SSD UC10](./Semester_Project/Wiki/diagramas/Design/Level_3/UC10.md)
-			- [SSD UC11](./Semester_Project/Wiki/diagramas/Design/Level_3/UC11.md)
-			- [SSD UC12](./Semester_Project/Wiki/diagramas/Design/Level_3/UC12.md)
-			- [SSD UC13](./Semester_Project/Wiki/diagramas/Design/Level_3/UC13.md)
-			- [SSD UC14](./Semester_Project/Wiki/diagramas/Design/Level_3/UC14.md)
-			- [SSD UC15](./Semester_Project/Wiki/diagramas/Design/Level_3/UC15.md)
-			- [SSD UC16](./Semester_Project/Wiki/diagramas/Design/Level_3/UC16.md)
-			- [SSD UC17](./Semester_Project/Wiki/diagramas/Design/Level_3/UC17.md)
-			- [SSD UC18](./Semester_Project/Wiki/diagramas/Design/Level_3/UC18.md)
-			- [SSD UC19](./Semester_Project/Wiki/diagramas/Design/Level_3/UC19.md)
-			- [SSD UC20](./Semester_Project/Wiki/diagramas/Design/Level_3/UC20.md)
+			- [UC1](./Semester_Project/Wiki/diagramas/Design/Level_3/UC1.md)
+			- [UC2](./Semester_Project/Wiki/diagramas/Design/Level_3/UC2.md)
+			- [UC3](./Semester_Project/Wiki/diagramas/Design/Level_3/UC3.md)
+			- [UC4](./Semester_Project/Wiki/diagramas/Design/Level_3/UC4.md)
+			- [UC5](./Semester_Project/Wiki/diagramas/Design/Level_3/UC5.md)
+			- [UC6](./Semester_Project/Wiki/diagramas/Design/Level_3/UC6.md)
+			- [UC7](./Semester_Project/Wiki/diagramas/Design/Level_3/UC7.md)
+			- [UC8](./Semester_Project/Wiki/diagramas/Design/Level_3/UC8.md)
+			- [UC9](./Semester_Project/Wiki/diagramas/Design/Level_3/UC9.md)
+			- [UC10](./Semester_Project/Wiki/diagramas/Design/Level_3/UC10.md)
+			- [UC11](./Semester_Project/Wiki/diagramas/Design/Level_3/UC11.md)
+			- [UC12](./Semester_Project/Wiki/diagramas/Design/Level_3/UC12.md)
+			- [UC13](./Semester_Project/Wiki/diagramas/Design/Level_3/UC13.md)
+			- [UC14](./Semester_Project/Wiki/diagramas/Design/Level_3/UC14.md)
+			- [UC15](./Semester_Project/Wiki/diagramas/Design/Level_3/UC15.md)
+			- [UC16](./Semester_Project/Wiki/diagramas/Design/Level_3/UC16.md)
+			- [UC17](./Semester_Project/Wiki/diagramas/Design/Level_3/UC17.md)
+			- [UC18](./Semester_Project/Wiki/diagramas/Design/Level_3/UC18.md)
+			- [UC19](./Semester_Project/Wiki/diagramas/Design/Level_3/UC19.md)
+			- [UC20](./Semester_Project/Wiki/diagramas/Design/Level_3/UC20.md)
 
 --------------------------------------------------------
 
@@ -142,3 +142,99 @@ Para modelar/representar visualmente, tanto o que foi implementado como as ideia
 ![Modelo Domínio](./Semester_Project/Wiki/diagramas/Design/md.svg)
 
 ------------------------------------------------
+
+# Architecture Background
+
+Foi utilizada uma arquitetura baseada em Onion, visto que é a mais fácil de *aumentar* no futuro, à medida que o sistema evolua ou haja a necessidade para tal.
+
+Esta arquitetura foi aplicada nos módulos MDR e MDV. Na SPA foi usada uma **CBA - Component Based Architecture**, uma arquitetura pioneira do Facebook, que essencialmente usa uma interface controladora para encapsular componentes individuais, e torná-los em essencialmente micro-sistemas. Para entender em detalhe esta arquitetura, é possível consultar: ["Understanding Component-Based Architecture"](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238).
+  
+## Problem Background
+
+### System Overview
+
+A Autoridade Intermunicipal de Transportes (AIT) pretende um sistema de gestão e planeamento de transportes públicos que permite a gestão, bem como a consulta pelo público em geral de diferentes redes de transportes, linhas, viagens, bem como o planeamento dos serviços de viaturas e motoristas a efetuar nessas linhas.
+
+### Context
+
+O planeamento de transportes aborda diversas otimizações e afetações de recursos humanos e materiais com vista a cumprir o serviço de transporte pretendido bem como maximizar determinados parâmetros do operador com vista à sua eficiência operacional e financeira.
+Genericamente, a oferta de transportes de um operador é o conjunto das viagens oferecidas por cada uma das suas linhas ao longo dos percursos da rede que tem mais interesse em termos de mobilidade de pessoas na área geográfica em que atua.
+
+
+### Quality attributes
+
+Os atributos de qualidade são categorizados e sistematizados segundo o modelo [FURPS+](https://pt.wikipedia.org/wiki/FURPS).
+
+#### **Funcionalidade**
+1. Cada sistema só poderá aceder aos dados que lhe dizem respeito.
+2. Deve ser auditada e verificada a integridade da informação a que os sistemas acedem.
+3. Com vista à necessidade de saber e necessidade de conhecer, toda a informação deve estar protegida de acessos indevidos. Ou seja, o princípio de minimização de acesso ao que é essencial para cada utilizador/aplicação, criação de túneis para transferência de informação, avaliação da integridade de dados e aplicações, e encriptação/minimização dos dados.
+4. Uma vez que o módulo de gestão de encomendas se encontra virado para o exterior, é necessário ter especial atenção com a privacidade e proteção de dados à luz do RGPD. Assim é necessário que o sistema cumpra a legislação em vigor e, em especial, disponibilize as informações legais e informe o utilizador aquando do seu registo, bem como permita aceder e cancelar a sua conta nos casos e nas condições legalmente permitidas.
+
+#### **Usabilidade**
+5. A SPA deve permitir acesso a todos os módulos do sistema: master data, planeamento e visualização, bem como RGPD.
+6.  No âmbito do projeto atual, a administração de utilizadores pode ser efetuada diretamente na base de dados não sendo necessário um módulo de gestão de utilizadores.
+
+#### **Confiabilidade (Reliability)**
+7. O sistema deve estar operacional 24 horas por dia, isto é, o tempo de paragem deve ser nulo, salvo algum problema ou perda dos serviços externos ao sistema, como é o caso das bases de dados (MongoDB, Azure Server).
+8. A estimativa de tempo, no qual o sistema deve estar operacional, é decisão do cliente. O sistema está preparado para existir perpetuamente.
+
+#### **Desempenho (Performance)**
+9. Os módulos MDR e MDV têm um tempo de resposta quase instantâneo. O MDR pode ter uma performance um pouco mais lenta na leitura de ficheiros e criação dos objetos de interesse ao negócio na base de dados, mas este tempo a mais deve-se à metodologia do servidor Azure.
+10. A SPA tem um tempo de resposta bastante reduzido também, e a mudança entre componentes é também instantânea.
+11. A SPA tem uma performance mais baixa no que toca à visualização 2D e 3D do mapa, dado que o mesmo, e todas as funcionalidades associadas ao mesmo, são obtidas a partir duma API externa: [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/).
+
+#### **Suportabilidade**
+12. Embora não esteja no âmbito atual do projeto, deve ser levado em conta na arquitetura da solução, a extensão futura para aplicações móveis.
+
+--------------------
+
+### **Design Constraints**
+1. O sistema deve ser composto por uma aplicação web do tipo **Single Page Application** (SPA) que permite aos utilizadores autorizados acederem aos diferentes módulos da aplicação, bem como por um conjunto de serviços que implementem as componentes de regras de negócio necessárias para o funcionamento da aplicação web.
+
+### **Implementation constraints**
+1. Todos os módulos devem fazer parte do código fonte da mesma SPA e serem disponibilizados como um único artefacto.
+
+### **Interface constraints**
+1.   A SPA deve permitir acesso a todos os módulos do sistema: master data rede, master data viagem, planeamento e visualização, bem como RGPD.
+2.   O módulo de Planeamento deve consumir dados de rede através da API do master data
+3.   O módulo de Planeamento deve consumir dados de viagens através da API do master data
+4.   O módulo de Visualização deve consumir dados de rede através da API do master data
+5.   O módulo de Visualização deve consumir dados de viagens através da API do master data "viagens"
+6.   O módulo de Visualização deve consumir dados de serviços de tripulante através da API do planeamento
+
+### **Physical constraints**
+1.  Existem dois servidores em load balancing, onde estão instaladas as aplicações, serviços e as bases de dados e que se encarregam do armazenamento da informação.
+2.  Existem ainda dois servidores em failover que distribuem os endereços a todos os sistemas e se encarregam da autenticação de sistemas e utilizadores (DHCP, DNS (se aplicável) e autenticação de servidores, e eventualmente um servidor Kerberos).
+3.  Algumas das aplicações devem ser implementadas *on premises* e outras em IaaS e PaaS (*on cloud*). O MDR e a SPA encontram-se implementados on premises, nos servidores do DEI. E todas se encontram implementadas em cloud. MDR e SPA utilizam [Heroku](https://www.heroku.com/), e MDV e Planeamento utilizam [Azure Virtual Machines](https://azure.microsoft.com/pt-pt/services/virtual-machines/).
+
+------------------
+
+### **Principais Funcionalidades**
+
+De um modo geral, as principais funcionalidades de cada módulo são as seguintes:
+
+- Master Data – permite a gestão da informação relacionada com a rede (nós, percursos), tipos de viaturas, tipos de tripulantes, linhas e viagens.
+- UI – interface com o utilizador.
+
+No âmbito do projeto atual, a administração de utilizadores pode ser efetuada diretamente na base de dados não sendo necessário um módulo de gestão de utilizadores.
+
+-------------------
+
+## Solution Background
+
+### **Architectural Approaches**
+
+Baseado nos requisitos não funcionais e restrições de design, serão adotadas as seguintes abordagens/padrões/estilos:
+
+- Client-Server, porque cada um dos "módulos" MDR, MDV, Planeamento são aplicações servidoras de outras aplicações clientes;
+- Web Application, em que o frontend é desempenhado por uma SPA (Single Page Application), e que o backend é desempenhado pelos módulos MDR, MDV e Planeamento;
+- SOA, porque os servidores (cf. anterior) deverão disponibilizar APIs, e particularmente APIs para serem usadas na web, disponibilizando serviços para os clientes respetivos. Serão adotados os nível 0, 1 e 2 do [Modelo de Maturidade de Richardson](https://martinfowler.com/articles/richardsonMaturityModel.html) aplicado a REST;
+- N-Tier, pois as várias aplicações devem ser implantadas em diferentes máquinas *on premises* e IaaS e PaaS (*on cloud*), de acordo com os requisitos não funcionais;
+- Layered architecture, mais especificamente Onion Architecture, por razões académicas.
+- Component-based-architecture, usada na SPA.
+
+Outras abordagens/estilos/padrões, como por exemplo a interligação entre aplicações baseado em mensagens-eventos foram desconsideradas para não violar os requisitos e restrições definidos, mas também por questões académicas.
+
+### **Analysis Results**
+Não existem por agora resultados de análise ou avaliação. Estudos qualitativos acerca dos estilos/padrões adotados (nomeadamente Onion em MDR e MDV, mas também Dependency Injection na UI), permitem empiricamente advogar que a manutenibilidade, evolutabilidade e testabilidade do software são elevadas, ao mesmo tempo que permitem atingir as funcionalidades desejadas.
