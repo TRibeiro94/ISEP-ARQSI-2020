@@ -3,6 +3,8 @@
 Repositório para o projeto de ARQSI (4 Sprints).
 
 # Projeto Integrador
+
+
 ------------------------------------------------
 ## Use Cases:
 1. Como data administrator, quero importar nós, percursos, linhas, tipos de viatura e tipos de tripulantes de dum ficheiro .glx.
